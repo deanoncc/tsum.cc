@@ -1,4 +1,4 @@
--- пидор спамящий в вебхук сделай мне пососаки, get pwned by fluttershy from da o ft. villos.us
+-- сын шлюхи который мне НИЧЕГО НИКОГДА НЕ СДЕЛАЕТ если хочешь вьебать соурс - вьеби :joy: мне похуй, я даже не знаю кто такой димасик тупой ты ретард, get pwned by fluttershy from da o ft. villos.us
 local j6eNdMjQM5JBM=tostring(39)
 local dzHvsALAiSl=string.len("mBdI8b")
 local x8afHfiUJfLy=string.len("zlkq")
